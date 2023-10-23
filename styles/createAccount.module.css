@@ -1,0 +1,11 @@
+.Content{
+    text-align: center;
+    width: 350px;
+    height: 520px;
+    overflow-y: auto;
+    justify-content: flex-start;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}

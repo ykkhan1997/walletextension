@@ -1,0 +1,17 @@
+.App{
+    text-align: center;
+    width: 350px;
+    height: 600px;
+    justify-content: flex-start;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+
+}
+.headerLogo{
+    height: 50px;
+    margin-left: 20px;
+}
+.dropdown{
+    margin-left: 20px;
+}

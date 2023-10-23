@@ -1,0 +1,46 @@
+.Content{
+    text-align: center;
+    width: 350px;
+    height: 520px;
+    overflow-y: auto;
+    justify-content: flex-start;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+.Menmonic{
+    color: #faad14;
+    background-color: #fffbe6;
+    border: 1px solid #ffe58f;
+    padding: 5px;
+    text-align: justify;
+    width: 310px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+}
+.SeedPhraseContainer{
+    width: 310px;
+    min-height: 160px;
+    padding: 5px;
+    margin-top: 30px;
+}
+.frontPageButton{
+    width: 90%;
+    margin-top: 20px;
+}
+.frontPageBottom{
+    align-items: flex-end;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    margin-bottom: 15px;
+    margin-top: 200px;
+    gap: 5px;
+}
+.frontPageBottom:hover{
+    cursor: pointer;
+    columns: gray;
+}
